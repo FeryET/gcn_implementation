@@ -1,1 +1,1 @@
-# deeplearning_course_final_project
+An implementation of the paper [Generative Cooperative Net for Image Generation and Data Augmentation](https://arxiv.org/abs/1705.02887) as a part of the final project for the course Deep Learning at the spring semester of 2021, University of Tehran.
