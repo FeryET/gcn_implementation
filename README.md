@@ -46,7 +46,7 @@ Here we have the results for our metioned tasks
 - Create a new augmentation tool  
 ![augmentations output](output_Augmentation.jpg "model output augmentation")
 
-## Team Members
+# Team Members
 - [Farhood Etaati](https://github.com/FeryET)
 - [Amir Mesbah](https://github.com/amirhosein-mesbah)
 
