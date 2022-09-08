@@ -36,7 +36,7 @@ In this structure, the generator and the classifier have goals in the same direc
 ![GCN architecture](model.jpg "model")
 
 ## Results
-Here we have the results for our metioned tasks
+Here we have the results for our metioned tasks. right column of each image is model output.
 - Generating images of faces (for KDEF dataset)  
 ![faces output](output_faces.jpg "model output faces")
 
