@@ -37,13 +37,13 @@ In this structure, the generator and the classifier have goals in the same direc
 
 ## Results
 Here we have the results for our metioned tasks
-- Generating images of faces (for KDEF dataset)
+- Generating images of faces (for KDEF dataset)  
 ![faces output](output_faces.jpg "model output faces")
 
-- Generating images of handwritten numbers (for QMNIST dataset)
+- Generating images of handwritten numbers (for QMNIST dataset)  
 ![numbers output](output_numbers.jpg "model output numbers")
 
-- Create a new augmentation tool
+- Create a new augmentation tool  
 ![augmentations output](output_Augmentation.jpg "model output augmentation")
 
 ## Team Members
